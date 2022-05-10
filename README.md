@@ -13,7 +13,7 @@ git clone https://github.com/Nazmul11265/social_login.git
 
 1. Enter into the back-end part directory using following command.
 ```bash
-cd backend
+cd social_login/backend
 ```
 2. Then fetch the latest code using following command.
 ```bash
@@ -35,7 +35,7 @@ npm run dev
 
 1. Enter into the Front-end part directory using following command.
 ```bash
-cd frontend
+cd social_login/frontend
 ```
 2. Then fetch the latest code using following command.
 ```bash
